@@ -82,3 +82,76 @@ let result1 =longStr.match(desiredRegex);
 console.log(result1.length)
 
 /////////////////////////////1///////////////////////////
+//9 merging array
+
+// let a =[7,8,9,9];
+// let b = [7,9,30,45];
+// let c =[];
+// let c = [...a,...b];
+// // console.log(c);
+
+// let d = [];
+// for(let i of  a){
+//   d.push(i);
+  
+// }
+// for(let j of b){
+//   d.push(j);
+// }
+// console.log(d);
+////////////////////////////////
+
+// for(let i =0; i <a.length; i++)
+// {
+//   c[i]=a[i]
+// }
+// let l = a.length + b.length;
+// let jj = c.length
+// for(let j =0; j<b.length; j++,jj++){
+//   c[jj]=b[j]
+// }
+
+// console.log(c)
+
+let a =[7,8,9,9];
+let b = [7,9,30,45];
+let c =[];
+let x=0;
+for(let i=0;i<a.length;i++){
+  c[x]=a[i];
+  x++;
+}
+for(let j=0;j<b.length;j++){
+  c[x]=b[j];
+  x++;
+}
+// console.log(c)
+
+/////////////////////////////////////
+//10 unique element from array
+function lonelyinteger(a) {
+  let uniqarr=[]
+  let u=0;
+  for(let i of a){
+      for(let j of a)
+      {
+          if(i === j){
+              u +=1
+              
+          }
+      }
+      console.log(u)
+      if(u ===1){
+          uniqarr.push(i)
+      }
+      u=0
+  }
+  //console.log(uniqarr)
+  return uniqarr;
+ 
+
+
+}
+
+let arr1 = [1,2,3,4,2,1,3]
+console.log(lonelyinteger(arr1));
