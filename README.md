@@ -1,1 +1,24 @@
 # js_coding_practice
+
+## Hackerrank Codes
+
+### 1)Array
+
+|  #  |            Topic             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |    [Plus Minus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)      | [Code](./hackerrank/array/plus_Minus.js)  |
+| 02  |    [Mini Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)    | [Code](./hackerrank/array/mini_Max_Sum.js)  |
+| 03  |    [lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two)    | [Code](./hackerrank/array/lonely_Integer.js)  |
+| 04  |    [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two)  | [Code](./hackerrank/array/diagonal_Difference.js)  |
+
+### 2)String
+
+|  #  |            Topic             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |    [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-three)      | [Code](./hackerrank/string/caesar_Cipher.js)  |
+
+### 3)Date
+
+  #  |            Topic             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |    [Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)      | [Code](./hackerrank/date/timeConversion.js)  |
