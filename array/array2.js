@@ -29,3 +29,14 @@ function sumOfCubes(ar){
 }
 
 //console.log(sumOfCubes(ar1));//567
+
+//staircase
+function staircase(n) {
+    // Write your code here
+    for(let i = n; i <= 1; i--){
+        console.log("#");
+    }
+
+}
+
+console.log(staircase(5));
