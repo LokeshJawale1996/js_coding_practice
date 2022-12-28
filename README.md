@@ -17,7 +17,8 @@
 |  #  |            Topic             | Source Code |
 | :-: | :----------------------------: | :-------: |
 | 01  |    [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-three)      | [Code](./hackerrank/string/caesar_Cipher.js)  |
-
+| 02  |    [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true)      | [Code](./hackerrank/string/camelCase.js)  |
+| 03  |    [Pangram](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true)      | [Code](./hackerrank/string/pangram.js)  |
 ### 3)Date
 
 |  #  |            Topic             | Source Code |
