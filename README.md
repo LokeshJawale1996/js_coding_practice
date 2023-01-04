@@ -1,5 +1,7 @@
 # js_coding_practice
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lokeshjawale96.js_coding_practice)
+
 ## Hackerrank Codes
 
 ### 1)Array
@@ -13,6 +15,7 @@
 | 05 |    [Sparse Arrays](https://www.hackerrank.com/challenges/one-month-preparation-kit-sparse-arrays/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)  | [Code](./hackerrank/array/sparse_Arrays.js)  |
 | 06 |    [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)  | [Code](./hackerrank/array/Birthday_Cake_Candles.js)  |
 | 07 |    [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)  | [Code](./hackerrank/array/Grading_Students.js)  |
+| 08 |    [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)  | [Code](./hackerrank/array/divisible_Sum_Pairs.js)  |
 
 ### 2)String
 
