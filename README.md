@@ -12,6 +12,7 @@
 | 04  |    [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two)  | [Code](./hackerrank/array/diagonal_Difference.js)  |
 | 05 |    [Sparse Arrays](https://www.hackerrank.com/challenges/one-month-preparation-kit-sparse-arrays/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one)  | [Code](./hackerrank/array/sparse_Arrays.js)  |
 | 06 |    [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)  | [Code](./hackerrank/array/Birthday_Cake_Candles.js)  |
+| 07 |    [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)  | [Code](./hackerrank/array/Grading_Students.js)  |
 
 ### 2)String
 
