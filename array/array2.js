@@ -13,7 +13,7 @@ function primeNumSum(arr){
 
 // console.log(primeNumSum(ar));
 
-//sum of perfect cubes from array
+//2csum of perfect cubes from array
 let ar1 =[2,9,12,16,81,216,264,625,8,343];
 
 function sumOfCubes(ar){
@@ -30,7 +30,7 @@ function sumOfCubes(ar){
 
 //console.log(sumOfCubes(ar1));//567
 
-//staircase
+//3 staircase
 function staircase(n) {
     // Write your code here
     for(let i = n; i <= 1; i--){
@@ -39,4 +39,74 @@ function staircase(n) {
 
 }
 
-console.log(staircase(5));
+// console.log(staircase(5));
+
+//4 remove duplicates from array
+
+let arr1 = [2,3,4,3,6,7,4];
+//1 Using set
+let uniqueElements = new Set(arr1);
+console.log(uniqueElements);
+
+//2 Using filter method
+function removceDuplicatesUsingFilter(arr1){
+ return arr1.filter((item,
+    index) => arr1.indexOf(item) === index)
+}
+console.log(removceDuplicatesUsingFilter(arr1));
+
+//3. Using For loop withou inbuilt method
+function unique(arr) {
+    const result = [];
+  
+    for (let i of arr) {
+      let noRepeat = true;
+  
+      for (let j of result) {
+        if (i === j) {
+          noRepeat = false;
+          break;
+        }
+      }
+  
+      if (noRepeat) {
+        result.push(i);
+      }
+    }
+  
+    return result;
+  }
+  
+  // 🎉  [ 1, 3, 2 ]
+  console.log(unique([1, 1, 3, 2, 2]));
+  
+
+  //4 sorting elements without using sort method or inbuiilt method
+  numbers =[12,10,15,11,14,13,16];
+
+  //approach 1
+  function bubbleSort(arr){
+    let temp = false;
+    while(!temp){
+        temp = true;
+        for(let i = 1; i < arr.length ; i++){
+            if(arr[i-1] > arr[i]){
+                temp =false;
+                let abc=arr[i-1];
+                arr[i-1] = arr[i];
+                arr[i] =abc;
+            }
+        }
+    }
+    return arr;
+
+  }
+  console.log(bubbleSort(numbers));
+
+//approach 2 using binbuilt method
+
+function sorting(arr){
+    // return arr.sort();
+    return arr.reduce((a,b) => a-b)
+}
+console.log(numbers);
