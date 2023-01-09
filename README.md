@@ -24,6 +24,8 @@
 | 06 |    [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)  | [Code](./hackerrank/array/Birthday_Cake_Candles.js)  |
 | 07 |    [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)  | [Code](./hackerrank/array/Grading_Students.js)  |
 | 08 |    [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)  | [Code](./hackerrank/array/divisible_Sum_Pairs.js)  |
+| 09 |    [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)  | [Code](./hackerrank/array/Compare_The_Triplets.js)  |
+
 
 ### 3)String
 
