@@ -4,7 +4,14 @@
 
 ## Hackerrank Codes
 
-### 1)Array
+### 1)Basic
+
+|  #  |            Topic             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |    [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)      | [Code](./hackerrank/basic/Cats_And_Mouse.js)  |
+| 02  |    [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=profile)      | [Code](./hackerrank/basic/the_Hurdle_Race.js)  |
+
+### 2)Array
 
 |  #  |            Topic             | Source Code |
 | :-: | :----------------------------: | :-------: |
@@ -17,7 +24,7 @@
 | 07 |    [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)  | [Code](./hackerrank/array/Grading_Students.js)  |
 | 08 |    [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)  | [Code](./hackerrank/array/divisible_Sum_Pairs.js)  |
 
-### 2)String
+### 3)String
 
 |  #  |            Topic             | Source Code |
 | :-: | :----------------------------: | :-------: |
@@ -27,7 +34,7 @@
 | 04  |    [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem?isFullScreen=true)      | [Code](./hackerrank/string/marksExploration.js)  |
 | 05  |    [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true)      | [Code](./hackerrank/string/alternatingCharatcters.js)  |
 
-### 3)Date
+### 4)Date
 
 |  #  |            Topic             | Source Code |
 | :-: | :----------------------------: | :-------: |

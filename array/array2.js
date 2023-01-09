@@ -13,6 +13,8 @@ function primeNumSum(arr){
 
 // console.log(primeNumSum(ar));
 
+////////////////////////////////////////////////////////
+
 //2csum of perfect cubes from array
 let ar1 =[2,9,12,16,81,216,264,625,8,343];
 
@@ -30,6 +32,8 @@ function sumOfCubes(ar){
 
 //console.log(sumOfCubes(ar1));//567
 
+////////////////////////////////////////////////////////
+
 //3 staircase
 function staircase(n) {
     // Write your code here
@@ -41,19 +45,23 @@ function staircase(n) {
 
 // console.log(staircase(5));
 
+////////////////////////////////////////////////////////
+
 //4 remove duplicates from array
 
 let arr1 = [2,3,4,3,6,7,4];
 //1 Using set
 let uniqueElements = new Set(arr1);
-console.log(uniqueElements);
+// console.log(uniqueElements);
 
 //2 Using filter method
 function removceDuplicatesUsingFilter(arr1){
  return arr1.filter((item,
     index) => arr1.indexOf(item) === index)
 }
-console.log(removceDuplicatesUsingFilter(arr1));
+// console.log(removceDuplicatesUsingFilter(arr1));
+
+
 
 //3. Using For loop withou inbuilt method
 function unique(arr) {
@@ -78,10 +86,12 @@ function unique(arr) {
   }
   
   // 🎉  [ 1, 3, 2 ]
-  console.log(unique([1, 1, 3, 2, 2]));
+  // console.log(unique([1, 1, 3, 2, 2]));
   
+  ////////////////////////////////////////////////////////
 
-  //4 sorting elements without using sort method or inbuiilt method
+
+  //5 sorting elements without using sort method or inbuiilt method
   numbers =[12,10,15,11,14,13,16];
 
   //approach 1
@@ -101,7 +111,7 @@ function unique(arr) {
     return arr;
 
   }
-  console.log(bubbleSort(numbers));
+  // console.log(bubbleSort(numbers));
 
 //approach 2 using binbuilt method
 
@@ -109,4 +119,17 @@ function sorting(arr){
     // return arr.sort();
     return arr.reduce((a,b) => a-b)
 }
-console.log(numbers);
+// console.log(numbers);
+
+
+////////////////////////////////////////////////////////
+//6  find ,maximum number from array
+
+let height = [3,4,1,9,5,10,6];
+let max = Math.max.apply(null,height);
+console.log(max);
+
+let min = Math.min.apply(null,height);
+console.log(min);
+
+////////////////////////////////////////////////////////
