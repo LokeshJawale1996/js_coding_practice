@@ -10,6 +10,7 @@
 | :-: | :----------------------------: | :-------: |
 | 01  |    [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)      | [Code](./hackerrank/basic/Cats_And_Mouse.js)  |
 | 02  |    [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=profile)      | [Code](./hackerrank/basic/the_Hurdle_Race.js)  |
+| 03  |    [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true))      | [Code](./hackerrank/basic/Beautiful_Days_At_Movies.js)  |
 
 ### 2)Array
 
