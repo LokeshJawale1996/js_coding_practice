@@ -133,3 +133,12 @@ let min = Math.min.apply(null,height);
 console.log(min);
 
 ////////////////////////////////////////////////////////
+//7 sorting array elements in ascending and descedning order using sort method
+
+let arr = [6,2,5,19,1,34,23,4];
+//sorting the all elements
+    let desc=arr.sort((a,b)=>a>b?-1:1);
+    let asec=arr.sort()
+    console.log(asec,desc)
+    
+////////////////////////////////////////////////////////
