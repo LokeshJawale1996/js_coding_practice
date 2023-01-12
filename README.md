@@ -38,6 +38,7 @@
 | 04  |    [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem?isFullScreen=true)      | [Code](./hackerrank/string/marksExploration.js)  |
 | 05  |    [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true)      | [Code](./hackerrank/string/alternatingCharatcters.js)  |
 | 06  |    [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)      | [Code](./hackerrank/string/string_Construction.js)  |
+| 07  |    [Hackerrank in the string!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true)      | [Code](./hackerrank/string/HackerRank_in_a_String.js)  |
 
 ### 4)Date
 
